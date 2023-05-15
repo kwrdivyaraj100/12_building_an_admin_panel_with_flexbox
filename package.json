@@ -5,7 +5,8 @@
   },
   "dependencies": {
     "gulp-autoprefixer": "^8.0.0",
-    "gulp-sass": "^5.1.0"
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.62.1"
   },
   "name": "12_building_an_admin_panel_with_flexbox",
   "version": "1.0.0",
