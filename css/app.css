@@ -18,7 +18,9 @@ body {
 img {
   max-width: 100%;
 }
-
+.no-menu.app .sidebar {
+  margin-left: -20rem;
+}
 .app {
   display: -webkit-box;
   display: -ms-flexbox;
